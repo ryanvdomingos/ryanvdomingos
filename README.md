@@ -1,21 +1,21 @@
-# Olá, eu sou o Ryan 👋
+Hey there! 👋
 
-**Estudante de Ciência da Computação | Aspirante a Web Developer**
+Sou o Ryan, estudante de Ciência da Computação e aspirante a Full-Stack Developer, morando no Brasil.
 
-Sou apaixonado por tecnologia, infraestrutura e segurança da informação. Busco sempre explorar o funcionamento dos sistemas a fundo, com forte interesse em redes, sistemas operacionais e análise de dados.
+Gosto de explorar o funcionamento dos sistemas a fundo, da infraestrutura ao código.
 
----
+Se há algo novo em redes, sistemas operacionais ou segurança, as chances são de que eu já esteja testando em ambiente real.
 
-### 🚀 O que estou fazendo agora
-- 💻 Desenvolvendo o **Project Arise** (um tracker de perfil para análise de desempenho no Valorant).
-- 🐧 Gerenciando e expandindo meu próprio **Home Lab** (configurando serviços como Pi-hole, Nextcloud e explorando o ecossistema Linux).
-- 🎓 Cursando Bacharelado em Ciência da Computação na Universidade Estácio de Sá.
+Minha stack principal e áreas de foco incluem Linux, Redes, Desenvolvimento Web, Data Science e ferramentas de Business Intelligence.
 
-### 🛠️ Ferramentas e Tecnologias
-- **Infraestrutura e SO:** Linux (Vim, ambientes Wayland/Hyprland), Redes, Servidores.
-- **Áreas de Foco:** Desenvolvimento Web, Segurança da Informação (DevSecOps), Data Science.
+Tenho alguns projetos em andamento, mas meu foco principal agora é o Project Arise e a expansão do meu Home Lab.
 
-### 📫 Como me encontrar
-- **LinkedIn:** [(https://www.linkedin.com/in/ryanvdomingos/)]
-- **Email:** [ryan.silva61@gmail.com]
-- **Discord:** [lyul]
+Estou sempre configurando meus próprios servidores e serviços (como Pi-hole e Nextcloud) para aprender na prática.
+
+Se quiser trocar uma ideia sobre infra, código ou oportunidades, pode me chamar no [LinkedIn]((https://www.linkedin.com/in/ryanvdomingos/)) ou no Discord.
+
+**Fun Facts:**
+- Uso Linux no dia a dia (Vim, Wayland/Hyprland)
+- Meu laboratório de estudos é minha própria casa (Home Lab)
+- Gosto de analisar dados de jogos, especialmente do Valorant
+- Áreas de interesse: DevSecOps e Web Developer.
