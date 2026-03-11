@@ -15,7 +15,7 @@ Estou sempre configurando meus próprios servidores e serviços (como Pi-hole e 
 Se quiser trocar uma ideia sobre infra, código ou oportunidades, pode me chamar no [LinkedIn]((https://www.linkedin.com/in/ryanvdomingos/)) ou no Discord.
 
 **Fun Facts:**
-- Uso Linux no dia a dia (Vim, Wayland/Hyprland)
+- Uso Linux no dia a dia (Vim, Fedora)
 - Meu laboratório de estudos é minha própria casa (Home Lab)
 - Gosto de analisar dados de jogos, especialmente do Valorant
 - Áreas de interesse: DevSecOps e Web Developer.
